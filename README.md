@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+When trying to follow the tutorial video, it used an older version of Android Studio compared to what I was using so at some parts of the project there was confusion. It wasn't any major problems though as they could be solved through quickly searching on the web or lookin at comments of people with similar issues. 
 
 ## License
 
